@@ -4,7 +4,7 @@ Public and aggregate genetics graph actor. This repository is the standalone
 `actor-rasen` west project; EDN is canonical and JSON is permitted only
 as external wire fixtures under `wire/`.
 
-Canonical repository: `etzhayyim/actor-rasen`.
+Canonical repository: `cloud-itonami/actor-rasen`.
 
 Within the Tamaki artificial organism, rasen is the public aggregate-genetics
 observation organ. It may integrate reference evidence and population-level
